@@ -7,7 +7,9 @@ A lightweight python study timer using the pomodoro technique
 
  Thank you for checking out my first python program!
  Kawe means study in Yoruba, a tribute to my study partner, Samuel from Nigeria
-#######################################################################################################
+ 
+############################################################################
+
  FULL INSTRUCTIONS:
  you must be using windows and have python installed from python.org
  
