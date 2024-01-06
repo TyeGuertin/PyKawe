@@ -11,6 +11,7 @@ A lightweight python study timer using the pomodoro technique
 ############################################################################
 
  FULL INSTRUCTIONS:
+ 
  you must be using windows and have python installed from python.org
  
 
@@ -26,10 +27,12 @@ bell = pygame.mixer.Sound(r"C:\Users\WORK\Desktop\PyKawe\BELL.mp3")
  pip install pygame 
 
  now locate and copy the file path of PyKawe.py
- copy the file path and type python then paste the file path
+ type python then paste the file path
 
  it will look similar to this:
+ 
  python "C:\Users\WORK\Desktop\PyKawe\PyKawe.py"
+ 
  that is all, I had a lot of fun making this, thank you for checking it out!
 
  if you would like to change your work time and break time the values are in seconds
