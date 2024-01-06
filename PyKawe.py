@@ -26,7 +26,7 @@ bell = pygame.mixer.Sound(r"C:\Users\WORK\Desktop\PyKawe\BELL.mp3")
 # pip install pygame 
 #
 # now locate and copy the file path of PyKawe.py
-# copy the file path and type python then paste the file path
+# type python then paste the file path
 #
 # it will look similar to this:
 # python "C:\Users\WORK\Desktop\PyKawe\PyKawe.py"
